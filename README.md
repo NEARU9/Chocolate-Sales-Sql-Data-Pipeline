@@ -41,6 +41,3 @@ The raw dataset includes several real-world data issues:
 These challenges make the dataset suitable for demonstrating **data cleaning and transformation workflows** in SQL.
 
 ---
-
-## 🏗️ Data Pipeline Architecture
-
