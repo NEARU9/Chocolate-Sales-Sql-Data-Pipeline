@@ -1,0 +1,1 @@
+DELETE FROM raw.chocolate_sales WHERE sale_date = 'Date';
